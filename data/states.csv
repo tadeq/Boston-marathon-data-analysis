@@ -1,0 +1,51 @@
+Postal abbreviation,State name,Avg temperature(°F),Avg elevation(m)
+AK,Alaska,32.03,580
+AL,Alabama,62.68,150
+AR,Arkansas,60.09,200
+AZ,Arizona,65.97,1250
+CA,California,61.17,880
+CO,Colorado,46.26,2070
+CT,Connecticut,48.60,150
+DE,Delaware,54.48,20
+FL,Florida,71.80,30
+GA,Georgia,62.30,180
+HI,Hawaii,72.95,920
+IA,Iowa,48.14,340
+ID,Idaho,46.32,1520
+IL,Illinois,51.37,180
+IN,Indiana,51.81,210
+KS,Kansas,54.68,610
+KY,Kentucky,55.62,230
+LA,Louisiana,66.74,30
+MA,Massachusetts,48.14,150
+MD,Maryland,54.61,110
+ME,Maine,43.09,180
+MI,Michigan,46.64,270
+MN,Minnesota,42.98,370
+MO,Missouri,54.70,240
+MS,Mississippi,63.50,90
+MT,Montana,44.18,1040
+NC,North Carolina,58.70,210
+ND,North Dakota,40.80,580
+NE,Nebraska,49.88,790
+NH,New Hampshire,44.49,300
+NJ,New Jersey,51.93,80
+NM,New Mexico,53.07,1740
+NV,Nevada,57.30,1680
+NY,New York,48.17,300
+OH,Ohio,50.88,260
+OK,Oklahoma,60.14,400
+OR,Oregon,51.27,1010
+PA,Pennsylvania,49.80,340
+RI,Rhode Island,49.27,60
+SC,South Carolina,61.70,110
+SD,South Dakota,45.54,670
+TN,Tennessee,58.11,270
+TX,Texas,65.97,520
+UT,Utah,49.55,1860
+VA,Virginia,55.54,290
+VT,Vermont,43.74,300
+WA,Washington,50.47,520
+WI,Wisconsin,44.71,320
+WV,West Virginia,53.08,460
+WY,Wyoming,43.47,2040
